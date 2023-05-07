@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahyrns
-- 👀 I’m interested in audio programming
+- 👀 I’m interested in business, technology, music, media, psychology, and philosophical research
 - 🌱 I’m currently learning the basics of programming
-- 💞️ I’m looking to collaborate on small music and audio related programming projects
+- 💞️ I’m looking to collaborate on small music and audio industry related projects
 - 📫 How to reach me ... LinkedIn or Instagram @amandahyrns
 
 <!---
