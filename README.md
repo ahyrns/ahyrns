@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahyrns
-- 👀 I have a keen interest in business, technology, music, meditation, travel, the past and future
-- 🌱 I’m currently learning to code - starting with Python
-- 💞️ I’ll be looking to collaborate on projects in the near future
+- 👀 I have a keen interest in computers, technology, all things music and audio, meditation, architecture, travel, culture, and nature
+- 🌱 I’m currently learning Web Development
+- 🔊 I'd like to specialize in software and audio programming as I gain more coding skills and practice
 - 😇 Thanks for stopping by!
 
 <!---
