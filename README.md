@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahyrns
-- 👀 I have a keen interest in computers, technology, all things music and audio, meditation, architecture, travel, culture, and nature
+- 👀 I have a keen interest in computers, technology, all things music and audio, meditation, architecture, travel, economics, philosophy, and being out in nature
 - 🌱 I’m currently learning Web Development
 - 🔊 I'd like to specialize in software and audio programming as I gain more coding skills and practice
 - 😇 Thanks for stopping by!
