@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @ahyrns
-- 👀 I have a keen interest in computers, technology, all things music and audio, meditation, architecture, travel, economics, philosophy, and just plain old being out in nature
-- 🌱 I’m currently learning Web Development
-- 🔊 I'd like to specialize in software and audio programming as I gain more coding skills and practice
+- 👀 I find it hard not being interested in most subjects, stories, and perspectives and I am a philosopher at heart
+- 📚 My favorite thing to do is read, learn, and question everything
+- 👩🏻‍💻 I've been glued to my computer since 2008-ish
+- 🌱 By day I'm pursuing a career in App/Software development
+- 🎙️ By night I'm a music composer, producer, and freelance audio engineer
+- 🔊 I'd like to specialize in audio programming in the future
 - 😇 Thanks for stopping by!
 
 <!---
