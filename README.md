@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahyrns
+- 👋 Hi, I’m Amanda
 
 <!---
 ahyrns/ahyrns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
